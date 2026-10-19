@@ -1,49 +1,31 @@
-# Hi 👋, I'm Cauã Moura
+# Olá, sou Cauã Moura 👋
 
-🚀 **Software Development Student | Python & Web Development**
-🇧🇷 Rio de Janeiro, Brazil
+**Estudante de ADS | Desenvolvimento Web e  Dados**  
 
-I'm studying **Systems Analysis and Development at Senac RJ**, building practical projects and developing my skills in **backend development, databases, and web applications**.
+Estudo Análise e Desenvolvimento de Sistemas no Senac RJ e sou monitor de Estrutura de Dados em Python, auxiliando outros estudantes com os conceitos e exercícios da disciplina.
 
-I work with **Python, Django, HTML, CSS, and JavaScript**, and I'm gaining hands-on experience with **Next.js, PostgreSQL, and Docker**.
+Desenvolvo projetos web com Python, Django, HTML, CSS e JavaScript. Também tenho experiência prática com Next.js, PostgreSQL e Docker em um projeto de plataforma de cursos jurídicos.
 
-I'm also a **Data Structures teaching assistant**, helping other students understand programming concepts with Python.
+Tenho interesse na área de dados e estou aprendendo a utilizar Python, Pandas, SQL e Power BI para organizar, analisar e visualizar informações.
 
----
-
-## 🌐 Where to find me
+## Contato
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/cauamouradev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Cau%C3%A3%20Moura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Cauã Moura" />
+  </a>
   <a href="https://github.com/cauavt7">
-    <img src="https://img.shields.io/badge/GitHub-cauavt7-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-cauavt7-181717?style=for-the-badge&logo=github" alt="GitHub — cauavt7" />
   </a>
   <a href="https://instagram.com/Cauavt7_">
-    <img src="https://img.shields.io/badge/Instagram-@Cauavt7_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@Cauavt7_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
- <a href="https://www.linkedin.com/in/cauamouradev/">
-  <img src="https://img.shields.io/badge/LinkedIn-Cau%C3%A3%20Moura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Cauã Moura" />
-</a>
-  
 </p>
 
----
+## Tecnologias
 
-## 🧠 About me
+### Frontend
 
-- 🎓 Studying Systems Analysis and Development at Senac RJ.
-- 🐍 Supporting students as a Data Structures teaching assistant using Python.
-- 💻 Developing web applications and strengthening my backend skills.
-- 🗃️ Learning database modeling and working with relational databases.
-- 🧩 Practicing object-oriented programming and problem-solving.
-- 🐳 Using Docker to run local development environments.
-- 💡 Exploring technology ideas for education, accessibility, and social impact.
-- 🌎 Improving my English and connecting with other developers.
-
----
-
-## 🛠️ Tech Stack
-
-<h3>Frontend</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3" />
@@ -52,7 +34,10 @@ I'm also a **Data Structures teaching assistant**, helping other students unders
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
 
-<h3>Backend &amp; Databases</h3>
+HTML • CSS • JavaScript • React • Tailwind CSS
+
+### Backend e banco de dados
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" height="45" alt="Django" title="Django" />
@@ -60,13 +45,20 @@ I'm also a **Data Structures teaching assistant**, helping other students unders
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL" />
 </p>
 
-<h3>Tools</h3>
+Python • Django • Django REST Framework • MySQL
+
+### Ferramentas
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker" />
+</p>
 
-<h3>Currently Exploring</h3>
+Git • GitHub • Docker
+
+### Estudando atualmente
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript" />
@@ -74,34 +66,17 @@ I'm also a **Data Structures teaching assistant**, helping other students unders
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" title="Pandas" />
 </p>
 
+Next.js • TypeScript • Java • Pandas
 
-## 📚 Learning Focus
+Estou aprofundando meus estudos em estruturas de dados, orientação a objetos, APIs REST e SQL.
 
-- Data structures and algorithms with Python.
-- Object-oriented programming with Python and Java.
-- REST APIs and backend development with Django.
-- Database design and SQL.
-- Responsive interfaces and modern web development.
-- Software engineering, requirements, and usability.
-
----
-
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" alt="Cauã's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=cauavt7&show_icons=true&theme=tokyonight" />
-  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauavt7&layout=compact&theme=tokyonight" />
+  <img height="170" alt="Estatísticas do GitHub de Cauã" src="https://github-readme-stats.vercel.app/api?username=cauavt7&show_icons=true&theme=tokyonight" />
+  <img height="170" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauavt7&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 💭 Philosophy
-
-> "Learn with curiosity, build with purpose, and share what you discover."
-
----
-
-⭐ Feel free to explore my repositories and follow my learning journey.
-🤝 Open to internships, collaborative projects, and opportunities to grow as a developer.
+# Aprendendo na prática, compartilhando conhecimento e explorando desenvolvimento de software e dados.
 
 
