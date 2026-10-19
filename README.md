@@ -1,15 +1,5 @@
 # Olá, sou Cauã Moura 👋
 
-**Estudante de ADS | Desenvolvimento Web e Dados**
-
-Estudo Análise e Desenvolvimento de Sistemas no Senac RJ e sou monitor de Estrutura de Dados em Python, auxiliando outros estudantes com os conceitos e exercícios da disciplina.
-
-Desenvolvo projetos web com Python, Django, HTML, CSS e JavaScript. Também tenho experiência prática com Next.js, PostgreSQL e Docker em um projeto de plataforma de cursos jurídicos.
-
-Tenho interesse na área de dados e estou aprendendo a utilizar Python, Pandas, SQL e Power BI para organizar, analisar e visualizar informações.
-
-## Contato
-
 <p align="left">
   <a href="https://www.linkedin.com/in/cauamouradev/">
     <img src="https://img.shields.io/badge/LinkedIn-Cau%C3%A3%20Moura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Cauã Moura" />
