@@ -1,6 +1,6 @@
 # Olá, sou Cauã Moura 👋
 
-**Estudante de ADS | Desenvolvimento Web e  Dados**  
+**Estudante de ADS | Desenvolvimento Web e Dados**
 
 Estudo Análise e Desenvolvimento de Sistemas no Senac RJ e sou monitor de Estrutura de Dados em Python, auxiliando outros estudantes com os conceitos e exercícios da disciplina.
 
@@ -21,9 +21,7 @@ Tenho interesse na área de dados e estou aprendendo a utilizar Python, Pandas, 
     <img src="https://img.shields.io/badge/Instagram-@Cauavt7_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-Sim! Substitua toda a seção de tecnologias por esta, com os **Devicons sem as caixinhas de fundo**. Alguns símbolos, como JavaScript e TypeScript, têm um quadrado no próprio logo.
 
-```markdown
 ## 🛠️ Tecnologias
 
 ### Frontend
@@ -81,22 +79,16 @@ Git • GitHub • Docker
 </p>
 
 Next.js • TypeScript • Java • Pandas
-```
-
-**Os nomes abaixo ajudam a identificar os ícones que ficam escuros no tema do GitHub.**
-
 
 Estou aprofundando meus estudos em estruturas de dados, orientação a objetos, APIs REST e SQL.
 
 ## 📊 Estatísticas do GitHub
-
 
 <p align="left">
   <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=cauavt7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
   <img height="170" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauavt7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
+---
 
-# Aprendendo na prática, compartilhando conhecimento e explorando desenvolvimento de software e dados.
-
-
+Aprendendo na prática, compartilhando conhecimento e explorando desenvolvimento de software e dados.
