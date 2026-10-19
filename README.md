@@ -72,10 +72,12 @@ Estou aprofundando meus estudos em estruturas de dados, orientação a objetos, 
 
 ## 📊 Estatísticas do GitHub
 
+
 <p align="left">
-  <img height="170" alt="Estatísticas do GitHub de Cauã" src="https://github-readme-stats.vercel.app/api?username=cauavt7&show_icons=true&theme=tokyonight" />
-  <img height="170" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauavt7&layout=compact&theme=tokyonight" />
+  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=cauavt7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+  <img height="170" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauavt7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
 </p>
+
 
 # Aprendendo na prática, compartilhando conhecimento e explorando desenvolvimento de software e dados.
 
