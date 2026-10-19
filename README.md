@@ -56,20 +56,6 @@ Python • Django • Django REST Framework • MySQL
 
 Git • GitHub • Docker
 
-### Estudando atualmente
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" title="Next.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" title="Pandas" />
-</p>
-
-Next.js • TypeScript • Java • Pandas
-
 Estou aprofundando meus estudos em estruturas de dados, orientação a objetos, APIs REST e SQL.
 
 ## 📊 Estatísticas do GitHub
