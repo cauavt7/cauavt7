@@ -1,4 +1,9 @@
-# Olá, sou Cauã Moura 👋
+# Hi, I'm Cauã Moura 👋
+
+## About Me
+
+I'm a Systems Analysis and Development student at Senac RJ and a Data Structures teaching assistant using Python. I've contributed to a legal education platform with Django and Next.js. I enjoy solving problems, sharing what I learn, and exploring web development and data analysis.
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cauamouradev/">
@@ -12,7 +17,7 @@
   </a>
 </p>
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -28,9 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
 
-HTML • CSS • JavaScript • React • Tailwind CSS
 
-### Backend e banco de dados
+### Backend & Databases
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" />
@@ -42,9 +46,8 @@ HTML • CSS • JavaScript • React • Tailwind CSS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL" />
 </p>
 
-Python • Django • Django REST Framework • MySQL
 
-### Ferramentas
+### Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />
@@ -54,17 +57,16 @@ Python • Django • Django REST Framework • MySQL
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker" />
 </p>
 
-Git • GitHub • Docker
 
-Estou aprofundando meus estudos em estruturas de dados, orientação a objetos, APIs REST e SQL.
+I'm currently studying data structures, object-oriented programming, REST APIs, and SQL.
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=cauavt7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-  <img height="170" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauavt7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="170" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=cauavt7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauavt7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
 ---
 
-Aprendendo na prática, compartilhando conhecimento e explorando desenvolvimento de software e dados.
+Learning by doing, sharing knowledge, and exploring software development and data.
