@@ -77,21 +77,7 @@ I'm also a **Data Structures teaching assistant**, helping other students unders
 
 ---
 
-## 🚀 Projects & Ideas
 
-### ⚖️ Defesa Inteligente MB
-Hands-on experience with a legal education platform using Django, Next.js, PostgreSQL, and Docker, including interface improvements and local development setup.
-
-### 🐾 Resgate Pet
-An academic project focused on coordinating animal rescue during floods, covering requirements, business rules, and user needs.
-
-### 🎓 CampusIA
-A university mentoring platform concept that connects students with mentors for specific academic challenges.
-
-### 🩸 Elo-Sangue
-A blood donation platform concept focused on donor journeys, donation history, campaigns, and access to donation centers.
-
----
 
 ## 📚 Learning Focus
 
