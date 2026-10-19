@@ -17,7 +17,7 @@ I'm a Systems Analysis and Development student at Senac RJ and a Data Structures
   </a>
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -60,7 +60,7 @@ I'm a Systems Analysis and Development student at Senac RJ and a Data Structures
 
 I'm currently studying data structures, object-oriented programming, REST APIs, and SQL.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img height="170" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=cauavt7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
